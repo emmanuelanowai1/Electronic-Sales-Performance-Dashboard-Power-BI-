@@ -5,6 +5,7 @@
 A Power BI project analyzing electronic sales data to uncover **revenue drivers, profitability gaps, and regional performance differences** using time-intelligence metrics and interactive visuals.
 
 ---
+<img width="972" height="547" alt="screenshot-1768769001980" src="https://github.com/user-attachments/assets/244a990d-cecb-45fe-8142-4fcd8fcbc7fb" />
 
 ## 🔍 Problem Statement
 
